@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cmyrsh
-- 👀 I’m interested in building new supertool that fixes all devvers problems.
-- 🌱 I’m currently learning kubernetes
-- 💞️ I’m looking to collaborate on message brokers
+- 👀 I’m interested in building supertools.
+- 🌱 I’m expert in java and currently learning kubernetes, go, rust
 - 📫 How to reach me cmyrsh@github
 
 <!---
